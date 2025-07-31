@@ -1,0 +1,47 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Large, sensitive, or auto-generated project data
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE/Editor, build system, and cache files
+.vs/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Unity crash and log
+sysinfo.txt
+*.log
+
+# Auto-generated plugins and addressables (adjust as needed)
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/StreamingAssets/aa*
+[Aa]ssets/Addressables_Temp*
+[Aa]ssets/AddressableAssetsData/*/*.bin*
